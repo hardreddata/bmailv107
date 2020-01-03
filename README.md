@@ -1,7 +1,7 @@
 # bmailv107
-bmail command line email executable (bmail.exe) mirror
+bmail command line email executable for windows (bmail.exe) mirror
 
-http://www.beyondlogic.org/solutions/cmdlinemail/cmdlinemail.htm no longer exists
+The official http://www.beyondlogic.org/solutions/cmdlinemail/cmdlinemail.htm no longer exists. Its contents can be reviewed here https://web.archive.org/web/20160310110150/http://retired.beyondlogic.org/consulting/cmdlinemail/cmdlinemail.htm
 
 I found http://tomislavtasic.blogspot.com/2014/08/send-mail-using-cmd.html and the associated google drive download and wanted to retain this and also make it more available. 
 
